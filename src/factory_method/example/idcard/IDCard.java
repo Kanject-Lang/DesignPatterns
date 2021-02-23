@@ -1,6 +1,6 @@
-package FactoryMethod.example.idcard;
+package factory_method.example.idcard;
 
-import FactoryMethod.example.framework.Product;
+import factory_method.example.framework.Product;
 
 /**
  * TODO

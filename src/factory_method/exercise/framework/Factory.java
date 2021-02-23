@@ -1,4 +1,4 @@
-package FactoryMethod.example.framework;
+package factory_method.exercise.framework;
 
 /**
  * TODO

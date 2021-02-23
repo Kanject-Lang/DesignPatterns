@@ -1,6 +1,4 @@
-package TemplateMethod.example;
-
-import java.io.InputStream;
+package template_method.example;
 
 /**
  * TODO

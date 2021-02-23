@@ -1,4 +1,4 @@
-package TemplateMethod.example;
+package template_method.example;
 
 /**
  * TODO
